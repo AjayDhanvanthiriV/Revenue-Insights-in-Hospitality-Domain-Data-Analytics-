@@ -1,1 +1,5 @@
 # Revenue-Insights-in-Hospitality-Domain-Data-Analytics-
+
+Domain: Hospitality				Function: Revenue
+
+This project focuses on helping AtliQ Grands, a chain of five-star hotels across India, regain market share and revenue in the luxury/business hotel category through the use of Business and Data Intelligence. Due to competitive pressures and past management inefficiencies, AtliQ Grands sought to derive actionable insights from their historical data. The project tasks included calculating key performance metrics such as Occupancy Rate, ADR (Average Daily Rate), RevPAR (Revenue per Available Room), and GOPPAR (Gross Operating Profit per Available Room). Following a stakeholder-provided mock-up, we designed an intuitive dashboard to display these metrics and visualize trends over time. Furthermore, we delved deeper into the data to generate additional insights on booking patterns, customer demographics, channel performance, and guest feedback analysis. These comprehensive insights aim to support strategic decision-making, ultimately enhancing AtliQ Grands' competitive position and financial performance in the luxury hospitality market.
